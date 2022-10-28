@@ -5,7 +5,7 @@ Deep Q learning algorithmn that plays the game of snake.
 ## Usage
 
 ```bash
-git clone https://github.com/EteimZ/deep-Qlearning-Snake.git
+git clone https://github.com/siabang35/Snake-Game-DQN.git
 pip install -r requirements.txt
 python agent.py
 ```
