@@ -27,4 +27,4 @@ About 100 games later ...
 ## Resources
 
 Video(https://youtu.be/oeW_49tUMp4) by  Siabang35
-[Patrick Loeber](https://github.com/siabang35)
+[Siabang35](https://github.com/siabang35)
