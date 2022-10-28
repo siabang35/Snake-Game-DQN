@@ -26,5 +26,5 @@ About 100 games later ...
 
 ## Resources
 
-Video [playlist](https://www.youtube.com/watch?v=PJl4iabBEz0&list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV) by  Avatar
-[Patrick Loeber](https://github.com/python-engineer)
+Video(https://youtu.be/oeW_49tUMp4) by  Siabang35
+[Patrick Loeber](https://github.com/siabang35)
